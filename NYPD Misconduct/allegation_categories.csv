@@ -1,0 +1,129 @@
+allegation,count,allegation_category
+Beat,37,Physical Assault
+Action,310,Physical Assault
+Chokehold,237,Physical Assault
+Dragged/Pulled,45,Physical Assault
+Flashlight as club,18,Physical Assault
+Flashlight As Club,7,Physical Assault
+Hit against inanimate object,172,Physical Assault
+Mace,10,Physical Assault
+Handcuffs too tight,74,Physical Assault
+Nightstick as club (incl asp & baton),257,Physical Assault
+Nightstick/Billy/Club,11,Physical Assault
+Physical force,4747,Physical Assault
+Police shield,11,Physical Assault
+Punch/Kick,77,Physical Assault
+Push/Shove,106,Physical Assault
+Other blunt instrument as a club,46,Physical Assault
+Nonlethal restraining device,84,Physical Assault
+Other - Abuse,48,Physical Assault
+Other - Force,94,Physical Assault
+Pepper spray,318,Physical Assault
+Radio as club,20,Physical Assault
+Radio As Club,7,Physical Assault
+Slap,6,Physical Assault
+Restricted Breathing,20,Physical Assault
+Forcible Removal to Hospital,117,Physical Assault
+Question,518,Stop or Question
+Question and/or stop,684,Stop or Question
+Questioned immigration status,1,Stop or Question
+Stop,2266,Stop or Question
+Vehicle stop,1084,Stop or Question
+Strip-searched,547,Search
+Body Cavity Searches,2,Search
+Premise Searched,27,Search
+Premises entered and/or searched,1522,Search
+Person Searched,40,Search
+Entry of Premises,274,Search
+Frisk,1913,Search
+Search (of person),2025,Search
+Search of Premises,147,Search
+Search of recording device,22,Search
+Frisk and/or search,226,Search
+Vehicle search,1387,Search
+Vehicle Searched,14,Search
+Black,26,Offensive Language/Gesture
+Ethnicity,82,Offensive Language/Gesture
+Hispanic,5,Offensive Language/Gesture
+Jewish,2,Offensive Language/Gesture
+Sexist Remark,1,Offensive Language/Gesture
+Religion,14,Offensive Language/Gesture
+Other Asian,1,Offensive Language/Gesture
+Oriental,1,Offensive Language/Gesture
+Word,3869,Offensive Language/Gesture
+Other - Ethnic Slur,9,Offensive Language/Gesture
+Race,300,Offensive Language/Gesture
+White,8,Offensive Language/Gesture
+Physical disability,13,Offensive Language/Gesture
+Sexual orientation,77,Offensive Language/Gesture
+Gay/Lesbian Slur,3,Offensive Language/Gesture
+Other- Discourtesy,17,Offensive Language/Gesture
+Gender,112,Offensive Language/Gesture
+Gender Identity,4,Offensive Language/Gesture
+Curse,131,Offensive Language/Gesture
+Demeanor/tone,35,Offensive Language/Gesture
+Nasty Words,58,Offensive Language/Gesture
+Rude Gesture,6,Offensive Language/Gesture
+Gesture,49,Offensive Language/Gesture
+Profane Gesture,2,Offensive Language/Gesture
+Gun as club,27,Gun Involved
+Gun As Club,6,Gun Involved
+Gun Drawn,179,Gun Involved
+Gun fired,38,Gun Involved
+Gun Fired,2,Gun Involved
+Gun pointed,1,Gun Involved
+Gun Pointed,603,Gun Involved
+Gun pointed/gun drawn,8,Gun Involved
+Refusal to obtain medical treatment,270,Refusal to Comply
+Refusal to process civilian complaint,184,Refusal to Comply
+Refusal to provide name,93,Refusal to Comply
+Refusal to provide name/shield number,1462,Refusal to Comply
+Refusal to provide shield number,93,Refusal to Comply
+Refusal to show arrest warrant,10,Refusal to Comply
+Refusal to show search warrant,125,Refusal to Comply
+Failed to Obtain Language Interpretation,2,Refusal to Comply
+Failure to provide RTKA card,173,Refusal to Comply
+Sh Refuse Cmp,5,Refusal to Comply
+Electronic device information deletion,10,Refusal to Comply
+Improper dissemination of medical info,4,Refusal to Comply
+Interference with recording,109,Refusal to Comply
+Threat of arrest,1339,Threaten
+Threat of Arrest,23,Threaten
+Threat of force,30,Threaten
+Threat of force (verbal or physical),894,Threaten
+Threat of summons,107,Threaten
+Threat of Summons,3,Threaten
+Threat re: removal to hospital,21,Threaten
+Threat to damage/seize property,169,Threaten
+Threat to notify ACS,97,Threaten
+Threat to Property,8,Threaten
+Property damaged,351,Other
+Property Damaged,20,Other
+Property Seized,4,Other
+Seizure of property,174,Other
+Detention,11,Other
+Other,618,Other
+Photography/Videography,14,Other
+Vehicle,35,Other
+Retaliatory arrest,143,Other
+Retaliatory summons,287,Other
+Animal,3,Other
+Arrest/D. A. T.,1,Other
+Arrest/Onlooker,4,Other
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+"Sex Miscon (Sexual Harassment, Gesture)",2,
+"Sex Miscon (Sexual Harassment, Verbal)",10,
+Sex Miscon (Sexual/Romantic Proposition),4,
+Sexual Misconduct (Sexual Humiliation),12,
